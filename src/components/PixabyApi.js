@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import axios from 'axios';
-import { useState } from 'react/cjs/react.development';
+import { useState } from 'react';
 import DisplayResults from './DisplayResults'
 
 function PixabyApi({userInput}) {
